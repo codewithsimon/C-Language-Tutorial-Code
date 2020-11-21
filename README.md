@@ -1,2 +1,2 @@
 # C-Language-Tutorial-Code
-Super random description
+Find the complete C video tutorial here: https://youtu.be/G2JoWUfX-zw
